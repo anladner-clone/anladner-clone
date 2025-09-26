@@ -37,11 +37,11 @@ Me gusta resolver problemas con código, crear proyectos útiles y experimentar 
 ## 📊 Mis estadísticas en GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anladner&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anladner-clone&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anladner&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anladner-clone&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
