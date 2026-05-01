@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Ariel Ladner (Nico Dev) 🚀</h1>
+<h1 align="center">Hola, soy Ariel Ladner</h1>
 
 <p align="center">
   <strong>Systems Engineering Student | Web Developer</strong>
