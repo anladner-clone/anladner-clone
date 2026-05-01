@@ -1,66 +1,55 @@
-<h1 align="center">👋 ¡Hola! Soy Ariel Ladner</h1>
+<h1 align="center">Hola, soy Ariel Ladner (Nico Dev) 🚀</h1>
 
 <p align="center">
-  🎓 Estudiante de <strong>Ingeniería en Sistemas de Información</strong> <br>
-  💻 Bachiller en <strong>Desarrollo de Software</strong> <br>
-  🚀 Apasionado por la tecnología y el aprendizaje autodidacta
+  <strong>Systems Engineering Student | Web Developer</strong>
+</p>
+
+<p align="center">
+  Enfocado en construir productos digitales de alto rendimiento, interfaces minimalistas y automatizaciones.
 </p>
 
 ---
 
-## 🌟 Sobre mí  
-
-Soy un desarrollador en formación que combina la **curiosidad** con la **formación académica**.  
-Me gusta resolver problemas con código, crear proyectos útiles y experimentar con nuevas tecnologías.  
-
-- 🔧 Me interesa el **desarrollo web**, la **automatización con Python** y la construcción de proyectos escalables.  
-- 📚 Aprendí mucho de manera **autodidacta**, y en paralelo complemento con mi carrera universitaria.  
-- ✨ Cada reto me motiva a crecer más como profesional y como persona.  
+### ⚡ Lo que estoy haciendo ahora
+- 🛠️ Liderando el desarrollo en **Wonder Labs**, mi propia agencia de soluciones tecnológicas.
+- ⚛️ Especializándome en **Astro**, **React** y **Django** para crear sitios web rápidos y optimizados (SEO-first).
+- 🤖 Construyendo flujos de automatización con **n8n**, conectando servicios como WhatsApp y Discord para optimizar negocios.
+- 🎓 Cursando la carrera de **Ingeniería en Sistemas de Información** en Argentina.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+### 🛠️ Tech Stack & Herramientas
 
 <p align="center">
-  <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,astro,git,github,vscode,fastapi,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=astro,react,js,python,html,css,tailwind,supabase,mysql,git,github,vscode,figma" />
 </p>
 
-- 🐍 **Python** (mi fuerte: scripts, automatización, proyectos personales)  
-- 🌐 **HTML, CSS (BEM), JavaScript** (proyectos web estáticos y responsive)  
-- ⚛️ **React.js** y **Astro.js** (experimentando con frameworks modernos)  
-- 🗄️ Bases de datos: **MySQL / SQLite** (nivel básico)  
-- 🛠️ Control de versiones con **Git & GitHub**  
+- **Frontend:** Astro (SSG/SSR), React.js, CSS bajo metodología BEM.
+- **Backend:** Python (Automatización/FastAPI/Django)
+- **Automatización:** n8n, Webhooks, integración de APIs.
+- **Tools:** Git, GitHub, VS Code, Figma.
 
 ---
 
-## 📊 Mis estadísticas en GitHub  
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anladner-clone&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anladner-clone&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anladner-clone&show_icons=true&theme=tokyonight&hide_border=true" alt="Nico Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anladner-clone&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
-## 🚀 Algunos de mis proyectos  
-
-- 🌐 **Portafolio personal** → (En construcción)  
-- 🐍 **Scripts en Python** → Automatizaciones para tareas diarias  
-- ⚛️ **Webs con React.js / Astro.js** → Prácticas y proyectos de aprendizaje  
-
----
-
-## 🤝 Conectemos  
-
+### 🤝 Conectemos
 <p align="center">
-  <a href="mailto:anladner.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/Anladner"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Anladner">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anladner.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
----
-
-<p align="center">✨ "La curiosidad y la disciplina son mi motor para seguir creciendo" ✨</p>
+<p align="center">
+  <em>"Siempre es un buen momento para aprender ;)"</em>
+</p>
